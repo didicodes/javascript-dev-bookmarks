@@ -1,5 +1,3 @@
-# JavaScript Resources
-
 [![JavaScript Dev Bookmarks](js-dev-bookmarks.png)](https://github.com/didicodes/javascript-dev-bookmarks) 
 
 **A collection of articles that will help you get better at JavaScript.💛**
