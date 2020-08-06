@@ -1,6 +1,6 @@
 # JavaScript Resource
 
-## ⭐️ This is a collection of articles that will help you get better at JavaScript. ⭐️
+## This is a collection of articles that will help you get better at JavaScript. ⭐️
 
 Over the last one year, developers from different parts of the world have published a lot of articles about various JavaScript topics on their Hashnode powered blog. So I decided to curate the most interesting ones and actively maintain it.
 
