@@ -16,6 +16,7 @@ Over the last year, developers from different parts of the world have published 
 - [Objects](#objects)
 - [ES6 and More](#es6--more)
 - [Promise](#promise)
+- [Fun Projects](#projects)
 
 ## `this`
 
@@ -111,5 +112,8 @@ Over the last year, developers from different parts of the world have published 
 - [JavaScript: async/await](https://blog.gyenabubakar.dev/javascript-asyncawait-ck6g73ol001cz3cs1cwvep0tx)
 - [ES6: Promisifying The Native Way (with Strophe as example)](https://melvinkoh.me/es6-promisifying-the-native-way-with-strophe-as-example-cjye5dj7u001uvvs1bf89ilow)
 - [5 most important Code Recipes for Asynchronous Code Execution](https://hashnode.com/post/5-most-important-code-recipes-for-asynchronous-code-execution-cjsw5i2ce0007los1haaqla7b)
+
+## Fun Projects
+- [Learn concepts of Vanilla JavaScript while building a Privacy Card Game in 5 easy Steps](https://learnwithmegha.hashnode.dev/learn-concepts-of-vanilla-javascript-while-building-a-privacy-card-game-in-5-easy-steps-ckdefco1n0277xvs189bs9cke)
 
 Let's connect on [Twitter](https://twitter.com/Didicodes) and [Hashnode](https://hashnode.com/@didicodes) :rocket:.
