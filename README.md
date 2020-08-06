@@ -4,9 +4,7 @@
 
 Over the last year, developers from different parts of the world have published a lot of articles about various JavaScript topics on their Hashnode powered blogs. So, I decided to curate the most interesting ones and actively maintain it.
 
-> For more context, [Hashnode](https://hashnode.com/) is a platform for developers to start a personal blog on their own domain for free. If you have written an article about JavaScript on your Hashnode blog, **please submit a pull request with your link**. If you don't, you can [sign up and get started](https://hashnode.com/) in < 2 minutes. 
-
-Let's connect on [Twitter](https://twitter.com/Didicodes) and [Hashnode](https://hashnode.com/@didicodes) :rocket:.
+> For more context, [Hashnode](https://hashnode.com/) is a platform for developers to start a personal blog on their own domain for free. If you have written an article about JavaScript on your Hashnode blog, **please submit a pull request with your link**. If you don't, you can [sign up and get started](https://hashnode.com/) in < 2 minutes :rocket:. 
 
 ## Table of Contents
 
@@ -113,3 +111,5 @@ Let's connect on [Twitter](https://twitter.com/Didicodes) and [Hashnode](https:/
 - [JavaScript: async/await](https://blog.gyenabubakar.dev/javascript-asyncawait-ck6g73ol001cz3cs1cwvep0tx)
 - [ES6: Promisifying The Native Way (with Strophe as example)](https://melvinkoh.me/es6-promisifying-the-native-way-with-strophe-as-example-cjye5dj7u001uvvs1bf89ilow)
 - [5 most important Code Recipes for Asynchronous Code Execution](https://hashnode.com/post/5-most-important-code-recipes-for-asynchronous-code-execution-cjsw5i2ce0007los1haaqla7b)
+
+Let's connect on [Twitter](https://twitter.com/Didicodes) and [Hashnode](https://hashnode.com/@didicodes) :rocket:.
