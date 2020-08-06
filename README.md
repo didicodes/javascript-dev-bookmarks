@@ -4,7 +4,7 @@
 
 Over the last one year, developers from different parts of the world have published a lot of articles about various JavaScript topics on their Hashnode powered blog. So I decided to curate the most interesting ones and actively maintain it.
 
-For more context, [Hashnode dev community](https://hashnode.com?source=github) is a platform for developers to start a personal blog on **their own domain** for free. If you have written an article on your Hashnode powered blog on JavaScript, please submit a PR with your link. If you don't have a Hashnode powered blog, you can [sign up and get started](https://hashnode.com?source=github) in < 2 minutes :rocket:.
+For more context, [Hashnode](https://hashnode.com?source=github) is a platform for developers to start a personal blog on **their own domain** for free. If you have written an article on your Hashnode powered blog on JavaScript, please submit a PR with your link. If you don't have a Hashnode powered blog, you can [sign up and get started](https://hashnode.com?source=github) in < 2 minutes :rocket:.
 
 
 - [Understanding this](#this)
