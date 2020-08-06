@@ -1,5 +1,7 @@
 # JavaScript Resources
 
+[![JavaScript Dev Bookmarks](js-dev-bookmarks.png)](https://github.com/didicodes/javascript-dev-bookmarks) 
+
 **A collection of articles that will help you get better at JavaScript.💛**
 
 Over the last year, developers from different parts of the world have published a lot of articles about various JavaScript topics on their Hashnode powered blogs. So, I decided to curate the most interesting ones and actively maintain it.
