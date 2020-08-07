@@ -74,6 +74,9 @@ Over the last year, developers from different parts of the world have published 
 - [Functional JavaScript: Five ways to calculate an average with array reduce](https://hashnode.com/post/functional-javascript-five-ways-to-calculate-an-average-with-array-reduce-cjwb9rlzz004izts1bym4aw81)
 - [Manipulating Arrays in JavaScript](https://bolajiayodeji.com/manipulating-arrays-in-javascript-cjvuuty3500354js1sba6z6yr)
 - [A Brief Introduction to JavaScript Map, Filter and Reduce Methods](https://blog.nemotivity.xyz/a-brief-introduction-to-javascript-map-filter-and-reduce-methods-ckck648il00df57s122yn0eub)
+- [JavaScript: Arrays, Array-Like objects and Array Methods](https://hashnode.com/post/javascript-arrays-array-like-objects-and-array-methods-ckblab6m8012xbss1wr3s3d5o)
+- [Fundamental of How Arrays Work and Build your Own in JavaScript (Part-1)](https://hashnode.com/post/fundamental-of-how-arrays-work-and-build-your-own-in-javascript-part-1-cjsr7x09y0043cjs2n566dini)
+- [Understanding JavaScript Splice and Slice](https://babysteps.hashnode.dev/understanding-javascript-slice-and-splice-ckd8vl17x00bpqus1cysu10qy)
 
 ## Objects
 
