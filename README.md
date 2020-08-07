@@ -120,5 +120,6 @@ Over the last year, developers from different parts of the world have published 
 - [Learn concepts of Vanilla JavaScript while building a Privacy Card Game in 5 easy Steps](https://learnwithmegha.hashnode.dev/learn-concepts-of-vanilla-javascript-while-building-a-privacy-card-game-in-5-easy-steps-ckdefco1n0277xvs189bs9cke)
 - [Writing parsers with Nearley](https://blog.floffah.dev/how-to-write-a-parser-with-nearley-ckchixsby003kbas15e6yb7q6)
 - [JavaScript Bot with Puppeteer - A Soft Introduction](https://dev.to/ebereplenty/javascript-bot-with-puppeteer-a-soft-introduction-5aei)
+- [Image Upload to Cloudinary with Nodejs and Dotenv](https://dev.to/ebereplenty/image-upload-to-cloudinary-with-nodejs-and-dotenv-4fen)
 
 Let's connect on [Twitter](https://twitter.com/Didicodes) and [Hashnode](https://hashnode.com/@didicodes) :rocket:.
