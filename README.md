@@ -85,6 +85,7 @@ Over the last year, developers from different parts of the world have published 
 - [Understanding JavaScript Splice and Slice](https://babysteps.hashnode.dev/understanding-javascript-slice-and-splice-ckd8vl17x00bpqus1cysu10qy)
 - [Basics of JavaScript Reduce Method](https://barnabas.hashnode.dev/basics-of-javascript-reduce-method-ckdk81c6402y7zzs1f13p4x7t)
 - [Understanding JavaScript ArrayMap and ArrayForEach](https://obizim.hashnode.dev/understanding-javascript-arraymap-and-arrayforeach-ckdvf4ii000wrjas13zam6kmd)
+
 ## Objects
 
 - [Different ways to create Objects in JavaScript](https://blog.pankaj.pro/different-ways-to-create-objects-in-javascript-ck66i6wqp03ip89s1uw155rb7)
