@@ -8,6 +8,7 @@ Over the last year, developers from different parts of the world have published 
 
 ## Table of Contents
 
+- [`Why JavaScript?`](#Why JavaScript?)
 - [`this`](#this)
 - [Closure](#closure)
 - [Scopes](#scopes)
@@ -17,6 +18,9 @@ Over the last year, developers from different parts of the world have published 
 - [ES6 and More](#es6--more)
 - [Promise](#promise)
 - [Fun Projects](#projects)
+
+## `Why JavaScript?`
+- [Why JavaScript is a Good Choice for Beginners](https://catalins.tech/why-javascript-is-a-good-choice-for-beginners-ckdr8w2o104jpl9s1gold7rt9)
 
 ## `this`
 
@@ -54,6 +58,8 @@ Over the last year, developers from different parts of the world have published 
 - [Call, Apply & Bind](https://erons.hashnode.dev/javascript-call-apply-and-bind-methods-cjyuupvil0007j7s18cg7uue9)
 - [A Simple Guide to Arrow Functions in JavaScript](https://lo-victoria.com/a-simple-guide-to-arrow-functions-in-javascript-ckd6kqoaz023am8s15m0u4x5k)
 - [Introduction To JavaScript Arrow Functions](https://yourwonder.hashnode.dev/arrow-functions-cka896kes01zey6s1ndq1gpdt)
+- [Learning JavaScript Higher Order Functions](https://blog.oshogunle.com/learning-javascript-topic-higher-order-functions-ckdvlkqxs0151jas1fl8tdx13)
+- [IIFE - Immediately Invoked Function Expressions](https://blog.skay.dev/iife-immediately-invoked-function-expressions-ckduje9xv018bn0s19l7ydqqx)
 
 ## Arrays
 
@@ -77,7 +83,8 @@ Over the last year, developers from different parts of the world have published 
 - [JavaScript: Arrays, Array-Like objects and Array Methods](https://hashnode.com/post/javascript-arrays-array-like-objects-and-array-methods-ckblab6m8012xbss1wr3s3d5o)
 - [Fundamental of How Arrays Work and Build your Own in JavaScript (Part-1)](https://hashnode.com/post/fundamental-of-how-arrays-work-and-build-your-own-in-javascript-part-1-cjsr7x09y0043cjs2n566dini)
 - [Understanding JavaScript Splice and Slice](https://babysteps.hashnode.dev/understanding-javascript-slice-and-splice-ckd8vl17x00bpqus1cysu10qy)
-
+- [Basics of JavaScript Reduce Method](https://barnabas.hashnode.dev/basics-of-javascript-reduce-method-ckdk81c6402y7zzs1f13p4x7t)
+- [Understanding JavaScript ArrayMap and ArrayForEach](https://obizim.hashnode.dev/understanding-javascript-arraymap-and-arrayforeach-ckdvf4ii000wrjas13zam6kmd)
 ## Objects
 
 - [Different ways to create Objects in JavaScript](https://blog.pankaj.pro/different-ways-to-create-objects-in-javascript-ck66i6wqp03ip89s1uw155rb7)
@@ -92,10 +99,12 @@ Over the last year, developers from different parts of the world have published 
 - [JavaScript Object References, in Simplistic Way!](https://blog.greenroots.info/javascript-object-references-in-simplistic-way-cjuz5n642002ec3s176ly595x)
 - [An Introduction to JavaScript Getters and Setters 👓](https://blog.nemotivity.xyz/an-introduction-to-javascript-getters-and-setters-ckcq1o3rv003clus11w4chpk6)
 - [A Beginner's Guide to ... in JavaScript](https://lo-victoria.com/a-beginners-guide-to-in-javascript-ckcbxztzb002i1ws17vmefwb3)
+- [Optional Chaining in JavaScript: What it is and How to Use it](https://catalins.tech/optional-chaining-in-javascript-what-is-it-and-how-to-use-it-ckdu6ev7c0090n0s1dwu39yzo)
 
 ## ES6 & more
 
 - [Three methods to get unique values from arrays in ES6](https://blog.everistus.xyz/three-methods-to-get-unique-values-from-arrays-in-es6-ck8dypcjd01a8xjs13gde9xmc)
+- [A Brief Dig Into ES6](https://preetika00.hashnode.dev/a-brief-dig-into-es6-ckdt4w5d800lq9ss1bkeq1pgn)
 - [Introduction to ES6 modules](https://bolajiayodeji.com/introduction-to-es6-modules-49956f580da)
 - [Metaprogramming: An Introduction to JavaScript(ES6) Proxy](https://blog.greenroots.info/metaprogramming-an-introduction-to-javascriptes6-proxy-cjwkk64ly000gvds10db4l034)
 - [Understanding ES6 Classes](https://hashnode.com/post/understanding-es6-classes-cj0dqw75w003mf7537mcwqrxh)
@@ -119,5 +128,8 @@ Over the last year, developers from different parts of the world have published 
 ## Fun Projects
 - [Learn concepts of Vanilla JavaScript while building a Privacy Card Game in 5 easy Steps](https://learnwithmegha.hashnode.dev/learn-concepts-of-vanilla-javascript-while-building-a-privacy-card-game-in-5-easy-steps-ckdefco1n0277xvs189bs9cke)
 - [Writing parsers with Nearley](https://blog.floffah.dev/how-to-write-a-parser-with-nearley-ckchixsby003kbas15e6yb7q6)
+- [Creating a Pixels-To-Rem Converter Using JavaScript](https://redlotusdesignz.hashnode.dev/creating-a-pixels-to-rem-converter-using-javascript-ckdt4y1ch00kxaps1hm76btvv)
+- [Building a Palindrome Checker Using Split, Join and Replace Methods](https://babysteps.hashnode.dev/building-a-palindrome-checker-using-split-join-and-replace-methods-ckdstus2u00kivbs1gph1h2ew)
+- [Vanilla JavaScript Email Validation](https://daily-dev-tips.hashnode.dev/vanilla-javascript-email-validation-ckdsei8ck00woa6s10pts8mxv)
 
 Let's connect on [Twitter](https://twitter.com/Didicodes) and [Hashnode](https://hashnode.com/@didicodes) :rocket:.
