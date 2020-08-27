@@ -29,7 +29,7 @@ Over the last year, developers from different parts of the world have published 
 - [Understanding this](https://blog.meettanvi.com/understanding-this-ckd7jnsyv005nses14abf9f6g)
 - [The JavaScript "this" keyword](https://codewithkisha.hashnode.dev/the-javascript-this-keyword-ckdd4cbqi00anyss165fgfyok)
 
-## Closure
+## Closures
 
 - [Understanding JavaScript Closure](https://blog.greenroots.info/understanding-javascript-closure-with-example-ckd17fci5001iw5s1fju4f8r0)
 - [this-less Javascript Development](https://hashnode.com/post/this-less-javascript-development-cj4kzqj0w00m2abwtl3m5w25t)
@@ -37,7 +37,7 @@ Over the last year, developers from different parts of the world have published 
 - [Understanding Closure in JavaScript](https://erons.hashnode.dev/understanding-closures-in-javascript-ck1k2c8cj00cozls1ic9fhmai)
 - [10x your code with the facade pattern, currying, and closures](https://blog.mauriciorobayo.com/10x-your-code-with-the-facade-pattern-currying-and-closures-ck6k04als010ndfs1jg6gg5jo)
 
-## Scopes
+## Scope
 
 - [JavaScript Scope Fundamentals with Tom and Jerry](https://blog.greenroots.info/javascript-scope-fundamentals-with-tom-and-jerry-ckcq723h4007vkxs18dxa97ae)
 - [Let's Talk 'Scopes' in JavaScript](https://blog.nemotivity.xyz/lets-talk-scopes-in-javascript-ckcytt3m1002k41s18q5249jy)
@@ -117,7 +117,7 @@ Over the last year, developers from different parts of the world have published 
 - [12 ES10 Features in 12 simple examples](https://carlillo.hashnode.dev/12-es10-features-in-12-simple-examples-ck0tp9oaf000r8ys1ph31kf9m)
 - [JavaScript: Why Reflect APIs?](https://blog.greenroots.info/javascript-why-reflect-apis-cjx09kad20006sos1pmumyn38)
 
-## Promise
+## Promises
 
 - [JavaScript: Promises](https://blog.gyenabubakar.dev/javascript-promises-ck2arq86l00nt3ns1s5xtia35)
 - [Converting callbacks to promises](https://hashnode.com/post/converting-callbacks-to-promises-ck0ztcm1e0031i2s1orjzngfi)
@@ -132,5 +132,7 @@ Over the last year, developers from different parts of the world have published 
 - [Creating a Pixels-To-Rem Converter Using JavaScript](https://redlotusdesignz.hashnode.dev/creating-a-pixels-to-rem-converter-using-javascript-ckdt4y1ch00kxaps1hm76btvv)
 - [Building a Palindrome Checker Using Split, Join and Replace Methods](https://babysteps.hashnode.dev/building-a-palindrome-checker-using-split-join-and-replace-methods-ckdstus2u00kivbs1gph1h2ew)
 - [Vanilla JavaScript Email Validation](https://daily-dev-tips.hashnode.dev/vanilla-javascript-email-validation-ckdsei8ck00woa6s10pts8mxv)
+- [JavaScript Bot with Puppeteer - A Soft Introduction](https://dev.to/ebereplenty/javascript-bot-with-puppeteer-a-soft-introduction-5aei)
+- [Image Upload to Cloudinary with Nodejs and Dotenv](https://dev.to/ebereplenty/image-upload-to-cloudinary-with-nodejs-and-dotenv-4fen)
 
 Let's connect on [Twitter](https://twitter.com/Didicodes) and [Hashnode](https://hashnode.com/@didicodes) :rocket:.
