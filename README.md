@@ -1,10 +1,10 @@
-[![JavaScript Dev Bookmarks](js-dev-bookmarks.png)](https://github.com/didicodes/javascript-dev-bookmarks) 
+[![JavaScript Dev Bookmarks](js-dev-bookmarks.png)](https://github.com/didicodes/javascript-dev-bookmarks)
 
 **A collection of articles that will help you get better at JavaScript.💛**
 
 Over the last year, developers from different parts of the world have published a lot of articles about various JavaScript topics on their Hashnode powered blogs. So, I decided to curate the most interesting ones and actively maintain it.
 
-> For more context, [Hashnode](https://hashnode.com/) is a platform for developers to start a personal blog on their own domain for free. If you have written an article about JavaScript on your Hashnode blog, **please submit a pull request with your link**. If you don't, you can [sign up and get started](https://hashnode.com/) in < 2 minutes :rocket:. 
+> For more context, [Hashnode](https://hashnode.com/) is a platform for developers to start a personal blog on their own domain for free. If you have written an article about JavaScript on your Hashnode blog, **please submit a pull request with your link**. If you don't, you can [sign up and get started](https://hashnode.com/) in < 2 minutes :rocket:.
 
 ## Table of Contents
 
@@ -71,7 +71,7 @@ Over the last year, developers from different parts of the world have published 
 - [How I work with arrays](https://hashnode.com/post/how-i-work-with-arrays-ckbub745k00dwkbs1bdtiakeb)
 - [Javascript Array Methods](https://hashnode.com/post/javascript-array-methods-ckbiq3chr015r0ns11tqglykb)
 - [Manipulating Arrays in JavaScript](https://olawanlejoel.hashnode.dev/manipulating-arrays-in-javascript-ckaf19vrl04goc5s1lawvad6t)
-- ['filter' vs 'find': JavaScript array methods](https://vicradon.hashnode.dev/filter-vs-find-javascript-array-methods-ck9dw8hit053zcss1xocvxd9f)
+- ['filter' vs 'find': JavaScript array methods](https://vicradon.hashnode.dev/filter-vs-find-javascript-array-methods)
 - [Three methods to get unique values from arrays in ES6](https://blog.everistus.xyz/three-methods-to-get-unique-values-from-arrays-in-es6-ck8dypcjd01a8xjs13gde9xmc)
 - [15 must-know JavaScript array methods in 2020](https://hashnode.com/post/15-must-know-javascript-array-methods-in-2020-ck5cc0zqm01b9qps1dpig0mtv)
 - [A Common Sense Explanation of JavaScript Array Methods](https://solathecoder.hashnode.dev/a-common-sense-explanation-of-javascript-array-methods-ck2gq53m200jjwks1hedlpeb5)
