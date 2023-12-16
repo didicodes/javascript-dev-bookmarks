@@ -134,5 +134,6 @@ Over the last year, developers from different parts of the world have published 
 - [Vanilla JavaScript Email Validation](https://daily-dev-tips.hashnode.dev/vanilla-javascript-email-validation-ckdsei8ck00woa6s10pts8mxv)
 - [JavaScript Bot with Puppeteer - A Soft Introduction](https://dev.to/ebereplenty/javascript-bot-with-puppeteer-a-soft-introduction-5aei)
 - [Image Upload to Cloudinary with Nodejs and Dotenv](https://dev.to/ebereplenty/image-upload-to-cloudinary-with-nodejs-and-dotenv-4fen)
+- [Browser Automation: Adding +50 claps on Medium articles with a little javascript](https://devinschumacher.hashnode.dev/javascript-to-automate-claps-on-medium)
 
 Let's connect on [Twitter](https://twitter.com/Didicodes) and [Hashnode](https://hashnode.com/@didicodes) :rocket:.
