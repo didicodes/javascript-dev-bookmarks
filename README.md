@@ -135,4 +135,4 @@ Over the last year, developers from different parts of the world have published 
 - [JavaScript Bot with Puppeteer - A Soft Introduction](https://dev.to/ebereplenty/javascript-bot-with-puppeteer-a-soft-introduction-5aei)
 - [Image Upload to Cloudinary with Nodejs and Dotenv](https://dev.to/ebereplenty/image-upload-to-cloudinary-with-nodejs-and-dotenv-4fen)
 
-Let's connect on [Twitter](https://twitter.com/Didicodes) and [Hashnode](https://hashnode.com/@didicodes) :rocket:.
+
