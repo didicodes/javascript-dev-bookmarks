@@ -4,8 +4,6 @@
 
 Over the last year, developers from different parts of the world have published a lot of articles about various JavaScript topics on their Hashnode powered blogs. So, I decided to curate the most interesting ones and actively maintain it.
 
-> For more context, [Hashnode](https://hashnode.com/) is a platform for developers to start a personal blog on their own domain for free. If you have written an article about JavaScript on your Hashnode blog, **please submit a pull request with your link**. If you don't, you can [sign up and get started](https://hashnode.com/) in < 2 minutes :rocket:. 
-
 ## Table of Contents
 
 - [`Why JavaScript?`](#Why JavaScript?)
