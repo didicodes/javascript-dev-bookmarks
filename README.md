@@ -8,16 +8,16 @@ Over the last year, developers from different parts of the world have published 
 
 ## Table of Contents
 
-- [`Why JavaScript?`](#Why JavaScript?)
+- [`Why JavaScript?`](#Why-JavaScript?)
 - [`this`](#this)
-- [Closure](#closure)
+- [Closure](#closures)
 - [Scopes](#scopes)
 - [Functions](#functions)
 - [Arrays](#arrays)
 - [Objects](#objects)
-- [ES6 and More](#es6--more)
-- [Promise](#promise)
-- [Fun Projects](#projects)
+- [ES6 and More](#ES6-&-more)
+- [Promise](#promises)
+- [Fun Projects](#fun-projects)
 
 ## `Why JavaScript?`
 - [Why JavaScript is a Good Choice for Beginners](https://catalins.tech/why-javascript-is-a-good-choice-for-beginners-ckdr8w2o104jpl9s1gold7rt9)
